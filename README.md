@@ -1,8 +1,8 @@
-<h2 align="center">Hi, I'm Adam! 👋</h2>
+<h2 align="center">Hi, I'm Adam! ☃</h2>
 <div align="center">
 <p>A 17y/o passionate developer that strives to solve problems through his code. <br>The project I am currently working on is TikTool. <br>Go check the repo out! </p><br>
 </div>
-<h2 align="center">Tech Stack</h2>
+<h2 align="center">Tech Stack ❄</h2>
 <div align="center">
 
 <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff">&nbsp;
