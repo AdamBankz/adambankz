@@ -11,6 +11,12 @@ When I'm not coding, you can find me experimenting with new technologies, contri
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white">&nbsp;</div>
 <h2 align="center">🛠 My Stats</h2>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandonc123&layout=compact&theme=dark" alt="Top Languages Card"></div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adambankz&theme=nord&show_icons=true&hide_border=false&count_private=true" alt="Top Languages Card"><img src="https://github-readme-streak-stats.herokuapp.com/?user=adambankz&theme=nord&hide_border=false"><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adambankz&theme=nord&show_icons=true&hide_border=false&layout=compact">
+
+</p>
+
 <h2 align="center">📫 Connect with me</h2>
 <p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/johndoe" target="_blank">John Doe</a></p>
