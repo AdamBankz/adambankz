@@ -13,8 +13,8 @@ When I'm not coding, you can find me experimenting with new technologies, contri
 <div align="center">
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adambankz&theme=nord&show_icons=true&hide_border=false&count_private=true" alt="Top Languages Card"><img src="https://github-readme-streak-stats.herokuapp.com/?user=adambankz&theme=nord&hide_border=false"><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adambankz&theme=nord&show_icons=true&hide_border=false&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api?username=adambankz&theme=nord&show_icons=true&hide_border=false&count_private=true" alt="Top Languages Card"><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adambankz&theme=nord&hide_border=false"><br>
 
 </p>
 
