@@ -1,20 +1,17 @@
-<h1 align="center">Hi 👋</h1>
+<h1 align="center">Hi, I'm Adam! 👋</h1>
 <div align="center">
-<p>Hi, I'm John Doe, a <strong>passionate full-stack web developer</strong> with a love for building scalable, user-friendly applications. With a strong foundation in both frontend and backend technologies, I enjoy working on projects that solve real-world problems. I'm constantly learning and exploring new tools and frameworks to stay updated with the latest industry trends.
-When I'm not coding, you can find me experimenting with new technologies, contributing to open-source projects, or sharing my knowledge with the developer community.</p>
+<p>A 17y/o passionate developer that strives to solve problems through his code.</p><br>
 </div>
 <h2 align="center">🛠 Tech Stack</h2>
 <div align="center">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">&nbsp;
-<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white">&nbsp;</div>
-<h2 align="center">🛠 My Stats</h2>
-<div align="center">
+
+<img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff">&nbsp;
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">&nbsp;
+</div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adambankz&theme=nord&show_icons=true&hide_border=false&count_private=true" alt="Top Languages Card"><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adambankz&theme=nord&hide_border=false"><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=adambankz&theme=nord&show_icons=true&hide_border=true&count_private=true" alt="Top Languages Card"><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adambankz&theme=nord&hide_border=true"><br>
 
 </p>
 
