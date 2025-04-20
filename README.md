@@ -1,6 +1,6 @@
 <h2 align="center">Hi, I'm Adam! ☃</h2>
 <div align="center">
-<p>A 17y/o passionate developer that strives to solve problems through his code. <br>The project I am currently working on is TikTool. <br>Go check the repo out! </p><br>
+<p>A 17y/o passionate developer that strives to solve problems through his code. <br>The project I am currently working on is TikTool. Go check the repo out & follow me for more! </p><br>
 </div>
 <h2 align="center">Tech Stack ❄</h2>
 <div align="center">
