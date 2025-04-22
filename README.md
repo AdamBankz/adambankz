@@ -18,6 +18,3 @@
 <p align="center"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white"><br><b>@fantastic_parrot_34116</b></p>
 
 
-<h2 align="center">Achievements 🎉</h2>
-<h2 align="center">Created a popular tool for TikTok! ❄</h2>
-<h2 align="center">Won my College's Software Engineering Competition ❄</h2>
