@@ -16,3 +16,6 @@
 
 <br>
 <p align="center"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white"><br><b>@fantastic_parrot_34116</b></p>
+
+
+<h2 align="center">Achievements 🎉</h2>
