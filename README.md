@@ -19,3 +19,5 @@
 
 
 <h2 align="center">Achievements 🎉</h2>
+<h2 align="center">Created a popular tool for TikTok! ❄</h2>
+<h2 align="center">Won my College's Software Engineering Competition ❄</h2>
