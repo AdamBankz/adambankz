@@ -10,7 +10,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adambankz&theme=prussian&show_icons=true&hide_border=true&count_private=true?A" alt="Top Languages Card" width=466><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=adambankz&theme=prussian&show_icons=true&hide_border=true&count_private=true?k" alt="Top Languages Card" width=466><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adambankz&theme=prussian&hide_border=true" width=466><br>
 </p>
 
