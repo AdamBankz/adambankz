@@ -19,7 +19,7 @@
 <br>
 <h3 align="center">My socials 😶‍🌫️</h3>
 <p align="center">
-<a href="https://www.youtube.com/c/adambielatamorim" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"/></a>
+<a href="https://www.youtube.com/@AdamBielatAmorim" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"/></a>
 <a href="https://discord.gg/DWNYCeXW8D" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white"/></a>
 <a href="t.me/didjdjsjdkf" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white"/></a>
 </p>
