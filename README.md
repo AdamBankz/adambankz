@@ -17,7 +17,7 @@
 </p>
 
 <br>
-<h3 align="center">My socials 😶‍🌫️</h3>
+<h3 align="center">My socials 📞</h3>
 <p align="center">
 <a href="https://www.youtube.com/@AdamBielatAmorim" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"/></a>
 <a href="https://discord.gg/DWNYCeXW8D" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white"/></a>
