@@ -1,6 +1,6 @@
 <h2 align="center">Hi, I'm Adam! ☃</h2>
 <div align="center">
-<p>A 17y/o passionate developer that strives to solve problems through his code.<br>I have a youtube channel where I provide tutorials for my repositories! ✔<br><br>The project I am currently working on is TikTool. 🤳 <br>Go check the repo out & follow me for more! 
+<p>A 17y/o passionate developer that strives to solve problems through his code.<br>I have a youtube channel where I post tutorials for my repositories! ✔<br><br>The project I am currently working on is TikTool. 🤳 <br>Go check the repo out & follow me for more! 
   
 </p><br>
 </div>
