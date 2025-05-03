@@ -13,7 +13,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ADAmbankz&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="Top Languages Card" width=466><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ADAmbankz&theme=dark&hide_border=false?1" width=466>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ADAmbankz&theme=dark&hide_border=false" width=466>
 </p>
 
 <br>
