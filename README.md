@@ -1,27 +1,23 @@
 <h2 align="center">Hi, I'm Adam! ☃</h2>
+
 <div align="center">
-<p>A 17y/o passionate developer that strives to solve problems through his code.<br>I have a youtube channel where I post tutorials for my repositories! ✔<br><br>The project I am currently working on is TikTool. 🤳 <br>Go check the repo out & follow me for more! 
-  
-</p><br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=facade&center=true&vCenter=true&width=600&lines=Confidently+Cruising+Creatively;Back+End+Developer;Automation+Enthusiast;"/>
 </div>
-<h2 align="center">Tech Stack ❄</h2>
-<div align="center">
+
+</div>
+<h2>Tech Stack</h2>
+<div>
 
 <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff?">&nbsp;
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">&nbsp;
 </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ADAmbankz&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="Top Languages Card" width=466><br>
+<p>
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech+Stack&lineCount=1&theme=vue&bg=%2335495E&badge=%233E556E&border=%233E556E&titleColor=%2341B883&line1=Python%2CPython%2C4f9799%3BSELENIUM%2CSELENIUM%2C437175%3BAIOHTTP%2CAIOHTTP%2C517d88%3BFLASK%2CFLASK%2C427172%3BVERCEL%2CVERCEL%2C5d9d98%3B" alt="Tech Stack" /><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ADAmbankz&theme=dark&hide_border=false" width=466>
 </p>
 
 <br>
-<h3 align="center">My socials 📞</h3>
-<p align="center">
-<a href="https://www.youtube.com/@AdamBielatAmorim" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"/></a>
-<a href="https://discord.gg/tiktool" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white"/></a>
-<a href="https://t.me/didjdjsjdkf" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white"/></a>
-</p>
+
 
 
