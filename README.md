@@ -13,7 +13,7 @@
 </div>
 
 <p>
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech+Stack&lineCount=1&theme=vue&bg=%2335495E&badge=%233E556E&border=%233E556E&titleColor=%2341B883&line1=Python%2CPython%2C4f9799%3BSELENIUM%2CSELENIUM%2C437175%3BAIOHTTP%2CAIOHTTP%2C517d88%3BFLASK%2CFLASK%2C427172%3BVERCEL%2CVERCEL%2C5d9d98%3B" alt="Tech Stack" /><br>
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech+Stack&lineCount=1&theme=vue&bg=%2335495E&badge=%233E556E&border=%233E556E&titleColor=%2341B883&line1=Python%2CPython%2C4f9799%3BSELENIUM%2CSELENIUM%2C437175%3BAIOHTTP%2CAIOHTTP%2C517d88%3BFLASK%2CFLASK%2C427172%3BVERCEL%2CVERCEL%2C5d9d98%3B" alt="Tech Stack" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ADAmbankz&theme=dark&hide_border=false" width=466>
 </p>
 
