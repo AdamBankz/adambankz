@@ -1,7 +1,7 @@
 <h2 align="center">Hi, I'm Adam! ☃</h2>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=facade&center=true&vCenter=true&width=600&lines=Confidently+Cruising+Creatively;Back+End+Developer;Automation+Enthusiast;"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=vue&center=true&vCenter=true&width=600&lines=Confidently+Cruising+Creatively;Back+End+Developer;Automation+Enthusiast;"/>
 </div>
 <br>
 
