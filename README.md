@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adambankz&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" width=495>
+  <img src="https://git-hub-streak-stats.vercel.app?user=adambankz&theme=transparent&hide_border=true&hide_longest_streak=true"
 </p>
 
 <br>
