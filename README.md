@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=900&size=43&pause=1000&color=3251BB&center=true&vCenter=true&width=635&lines=Reverse+Engineer;Backend+Developer;Python+Enthusiast+"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=900&size=43&duration=0.0000001&pause=0.0000001&color=3251BB&center=true&vCenter=true&repeat=false&width=435&height=120&lines=Silent+Solve." alt="Typing SVG" />
 </div>
 
 <br>
